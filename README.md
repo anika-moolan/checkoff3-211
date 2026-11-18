@@ -23,4 +23,4 @@ I then used the following analogy/example to further understand this concept:
 
 <img width="1117" height="623" alt="Screenshot 2026-11-18 at 11 17 12 AM" src="https://github.com/user-attachments/assets/b838d857-b1db-4cec-92aa-d2c87798320f" />
 
-My key takeaway about MLFQ was as follows: **MLFQ uses a job’s past behavior to predict its future. **
+My key takeaway about MLFQ was as follows: MLFQ uses a job’s past behavior to predict its future.
